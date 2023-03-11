@@ -37,6 +37,10 @@ A window with an example scene should open. Now with the `Move Tool` and `Rect T
 After setting the scene, click the `Play` button at the top of the screen and watch the cars try to find their way.
 The code is in `Assets/Code/`, in order to edit variables, enter the file `PopulationController.cs` .
 
+Below are the generation steps in an example scene.
+<img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/1_generation.gif" width="600" height="250"/><img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/5_generation.gif" width="600" height="250"/>
+<img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/400_generation.gif" width="600" height="250"/><img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/600_generation.gif" width="600" height="250"/>
+
 
 ## Built Using <a name = "built_using"></a>
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - language in which the algorithm was written
