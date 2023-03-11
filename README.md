@@ -27,7 +27,7 @@ You can download files from github or from this [link](https://mega.nz/file/03I0
 
 ### Installing
 
-First open Unity Hub, then click `Add project from disk` option in `Open` button, choose `GeneticCars` folder that you downloaded, then open the newly created project and you're good to go.
+First open Unity Hub (remeber to have a right version installed), then click `Add project from disk` option in `Open` button, choose `GeneticCars` folder that you downloaded and unziped, then open the newly created project and you're good to go.
 
 
 ## Usage <a name = "usage"></a>
