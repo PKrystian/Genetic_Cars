@@ -38,15 +38,25 @@ After setting the scene, click the `Play` button at the top of the screen and wa
 The code is in `Assets/Code/`, in order to edit variables, enter the file `PopulationController.cs` .
 
 Below are the generation steps in an example scene.
+
 1st Generation:
+
 <img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/1_generation.gif" width="600" height="250"/>
+
 5th Generation:
+
 <img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/5_generation.gif" width="600" height="250"/>
+
 400th Generation:
+
 <img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/400_generation.gif" width="600" height="250"/>
+
 600th Generation:
+
 <img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/600_generation.gif" width="600" height="250"/>
+
 1000th Generation:
+
 <img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/1000_generation.gif" width="600" height="250"/>
 
 ## Built Using <a name = "built_using"></a>
