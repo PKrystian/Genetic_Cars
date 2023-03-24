@@ -60,5 +60,5 @@ Below are the generation steps in an example scene.
 <img src="https://github.com/PKrystian/Genetic_Cars/blob/51566c7de99c5adf02a92884dcfb395df7a814b7/github_files/1000_generation.gif" width="600" height="250"/>
 
 ## Built Using <a name = "built_using"></a>
-- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - language in which the algorithm was written
-- [Unity](https://unity.com/) - Application in which the interface was created
+
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="160" height="160"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="160" height="160"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="160" height="160"/> </a> </p>
